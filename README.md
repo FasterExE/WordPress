@@ -30,3 +30,13 @@ wget https://raw.githubusercontent.com/FasterExE/WordPress/main/wp-installer.sh;
 <p align="center">
 <img src="https://raw.githubusercontent.com/FasterExE/WordPress/main/SCREENSHOT/screenshot-2.jpg" width="400" title="Autoscript-Lite">
 </p>
+
+</b>
+<p align="center">
+<img src="https://raw.githubusercontent.com/FasterExE/WordPress/main/SCREENSHOT/screenshot-3.jpg" width="400" title="Autoscript-Lite">
+</p>
+
+</b>
+<p align="center">
+<img src="https://raw.githubusercontent.com/FasterExE/WordPress/main/SCREENSHOT/screenshot-4.jpg" width="400" title="Autoscript-Lite">
+</p>
